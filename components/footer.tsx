@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button"
 export function Footer() {
   const currentYear = new Date().getFullYear()
   const handleFooterButtonClick = useCallback(() => {
-    window.open(appConfig.socialMedia.whatsapp, "_blank", "noopener,noreferrer")
+    window.open(appConfig.socialMedia.link, "_blank", "noopener,noreferrer")
   }, [])
 
   return (
@@ -166,7 +166,7 @@ export function Footer() {
             <div className="flex flex-col sm:flex-row sm:items-center sm:gap-6 gap-4">
             <div className="flex space-x-6">
             </div>
-            <Button onClick="https://lynk.id/scriptnya/page/script-bot-free" className="bg-red-500 hover:bg-red-600 text-white">
+            <Button onClick={handleFooterButtonClick} className="bg-red-500 hover:bg-red-600 text-white">
               ⎙ 𝗖𝗟𝗜𝗖𝗞 𝗗𝗜 𝗦𝗜𝗡𝗜 ⎙
             </Button>
           </div>

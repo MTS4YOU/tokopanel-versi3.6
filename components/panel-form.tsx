@@ -268,7 +268,7 @@ export default function PanelForm() {
           Bingung cari tempat beli panel yang murah dan aman dimana?
         </p>
         <p className="mt-2 text-sm text-gray-400">
-          Yuk beli panel di sini, Panel sudah terjamin keamanannya dan harga pas di kantong kamu.
+          Yuk beli panel di sini, Panel sudah terjamin keamanannya dan harganya pas di kantong kamu.
         </p>
         <p className="mt-1 text-xs text-gray-500">
           Silakan isi data dan pilih paket yang sesuai untuk mendapatkan panel server terbaik anda.

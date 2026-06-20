@@ -262,7 +262,8 @@ export default function PanelForm() {
   return (
     <>
       <div className="rounded-3xl border border-dark-300 bg-dark-500 p-5 mb-6">
-        <h1 className="text-2xl font-semibold text-white">Selamat datang, Pembeli!</h1>
+        <h1 className="text-2xl font-semibold text-white">LINK DOWNLOAD SCRIPT</h1>
+        <h1 className="text-2xl font-semibold text-white">⇩SCROLL KE BAWAH⇩</h1>
         <p className="mt-2 text-sm text-gray-400">
           Terima kasih telah memilih layanan kami. Silakan isi data dan pilih paket yang sesuai untuk mendapatkan panel server terbaik.
         </p>

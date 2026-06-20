@@ -166,6 +166,7 @@ export function Footer() {
             <div className="flex flex-col sm:flex-row sm:items-center sm:gap-6 gap-4">
             <div className="flex space-x-6">
             </div>
+              <p className="text-xs text-gray-400 mt-2"><span className="font-medium text-white">✨Normal</span> = Paket Ram & CPU Normal</p>
             <Button onClick={handleFooterButtonClick} className="bg-red-500 hover:bg-red-600 text-white">
               ⎙ 𝗖𝗟𝗜𝗖𝗞 𝗗𝗜 𝗦𝗜𝗡𝗜 ⎙
             </Button>

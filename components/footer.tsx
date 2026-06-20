@@ -166,8 +166,8 @@ export function Footer() {
             <div className="flex flex-col sm:flex-row sm:items-center sm:gap-6 gap-4">
             <div className="flex space-x-6">
             </div>
-            <Button onClick={handleFooterButtonClick} className="bg-red-500 hover:bg-red-600 text-white">
-              Hubungi Kami
+            <Button onClick="https://lynk.id/mtshosting/page/tokovps" className="bg-red-500 hover:bg-red-600 text-white">
+              ⎙ 𝗖𝗟𝗜𝗖𝗞 𝗗𝗜 𝗦𝗜𝗡𝗜 ⎙
             </Button>
           </div>
         </div>

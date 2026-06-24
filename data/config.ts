@@ -39,7 +39,7 @@ export const pterodactylConfig = {
 export const appConfig = {
   whatsappGroupLink: "https://youtu.be/LB-X96DJJf4?si=PfPQDnsZRpGounqv", // link
   nameHost: "MTS4YOU XD", // nama host 
-  fee: 0.05, // 2%
+  fee: 0.03, // 2%
   garansi: {
     warrantyDays: 30, // Limit hari
     replaceLimit: 5, // Limit replace/claim

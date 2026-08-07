@@ -41,7 +41,7 @@ export const appConfig = {
   nameHost: "MTS4YOU XD", // nama host 
   fee: 0.03, // 2%
   garansi: {
-    warrantyDays: 30, // Limit hari
+    warrantyDays: 35, // Limit hari
     replaceLimit: 5, // Limit replace/claim
   },
   pay: {

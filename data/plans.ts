@@ -246,7 +246,7 @@ export const plans: Plan[] = [
     memory: 0,
     disk: 0,
     cpu: 0,
-    price: 50000,
+    price: 500000,
     description: "𝗞𝗼𝗻𝘁𝗿𝗼𝗹 𝗗𝗮𝗻 𝗠𝗲𝗺𝗯𝘂𝗮𝘁 𝗣𝗮𝗻𝗲𝗹 𝗔𝗻𝗱𝗮 𝗦𝗲𝗻𝗱𝗶𝗿𝗶",
     features: ["Akses Admin Panel", "Membuat Panel Sepuasnya", "Bisa Jualan Panel", "Support Nodejs 20+", "Masa Aktif ±1 Bulan", "Garansi Aktif 30 Hari", "Garansi 5× Replace"],
   },
